@@ -1,0 +1,33 @@
+name: cicd
+
+on:
+  push:
+    branches: [ "main" ]
+
+env:
+  MSG_OK: AL PROCESS FINISH SUCCESSFUL
+
+jobs:
+  
+  test:
+    name: deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_KEY_ID }}
+          aws-region: us-east-1
+          
+      - name: Deploy
+        run: aws s3 cp ./getAll.json s3://${{ secrets.S3_BUCKET }}
+        
+      - name: process finish
+        run: echo "$MSG_OK" 
