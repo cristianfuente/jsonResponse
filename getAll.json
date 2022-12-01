@@ -1,0 +1,14 @@
+{
+    "idUsuario": "1",
+    "nombre": "cristian",
+    "documentos": [
+      {
+        "id": "renta",
+        "size": "1mb"
+      },
+      {
+        "id": "camara",
+        "size": "3mb"
+      }
+    ]
+  }
