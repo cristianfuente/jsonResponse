@@ -1,50 +1,50 @@
 [{
 
-    "id_documento": 1,
-    "nombre_documento": "Camara comercio",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 1,
+    "nombreDocumento": "Camara comercio",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }, {
 
-    "id_documento": 2,
-    "nombre_documento": "Solicitud de servicios financieros",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 2,
+    "nombreDocumento": "Solicitud de servicios financieros",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }, {
 
-    "id_documento": 3,
-    "nombre_documento": "Sociedades Anonimas",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 3,
+    "nombreDocumento": "Sociedades Anonimas",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }, {
 
-    "id_documento": 4,
-    "nombre_documento": "Estados Financieros",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 4,
+    "nombreDocumento": "Estados Financieros",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }, {
 
-    "id_documento": 5,
-    "nombre_documento": "Declaracion de renta",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 5,
+    "nombreDocumento": "Declaracion de renta",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }, {
 
-    "id_documento": 6,
-    "nombre_documento": "0_90 formulario",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 6,
+    "nombreDocumento": "0_90 formulario",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }, {
 
-    "id_documento": 7,
-    "nombre_documento": "Bono de prenda",
-    "estado_cargado": "1",
-    "fecha_cargado": "05/12/2022",
+    "idDocumento": 7,
+    "nombreDocumento": "Bono de prenda",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
     "vigencia" : "no mayor a 90 dias"
   }]
