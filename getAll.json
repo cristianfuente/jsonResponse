@@ -3,7 +3,7 @@
     "idDocumento": 1,
     "nombreDocumento": "Orden de desembolso",
     "estadoCargado": "1",
-    "fechaCargado": "05/12/2022",
+    "fechaCargado": null,
     "vigencia" : "no mayor a 90 dias",
     "activoCatalogo": true
   }, {
