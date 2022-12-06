@@ -1,88 +1,149 @@
 [{
 
     "idDocumento": 1,
-    "nombreDocumento": "Camara comercio",
+    "nombreDocumento": "Orden de desembolso",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }, {
 
     "idDocumento": 2,
-    "nombreDocumento": "Solicitud de servicios financieros",
+    "nombreDocumento": "Cámara de Comercio del deudor y codeudores actualizada / vigencia 90 días (Persona jurídica)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }, {
 
     "idDocumento": 3,
-    "nombreDocumento": "Sociedades Anonimas",
+    "nombreDocumento": "Tabla de referencia (corporativo, empresarial o PMP)*",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }, {
 
     "idDocumento": 4,
-    "nombreDocumento": "Estados Financieros",
+    "nombreDocumento": "Pagaré DCC_FOR_079 y Carta de instrucciones DCC_FOR_078  (diligenciados y firmados)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }, {
 
     "idDocumento": 5,
-    "nombreDocumento": "Declaracion de renta",
+    "nombreDocumento": "Documento de identificación de codeudores y/o representante legal (si aplica)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }, {
 
     "idDocumento": 6,
-    "nombreDocumento": "0_90 formulario",
+    "nombreDocumento": "Fondo Agropecuario de Garantías (FAG) aceptación de la garantía",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }, 
   {
 
     "idDocumento": 7,
-    "nombreDocumento": "Bono de prenda",
+    "nombreDocumento": "Carta del Asistente Técnico (carta coordinación)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }
   , 
   {
 
     "idDocumento": 8,
-    "nombreDocumento": "Bono de prenda",
+    "nombreDocumento": "Solicitud de crédito agropecuario y rural (Planificación)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }
   , 
   {
 
     "idDocumento": 9,
-    "nombreDocumento": "Bono de prenda",
+    "nombreDocumento": "Autorización de tasa o monto, según atribución (si aplica)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }
   , 
   {
 
     "idDocumento": 10,
-    "nombreDocumento": "Bono de prenda",
+    "nombreDocumento": "Formato de asegurabilidad diligenciado (si aplica)",
     "estadoCargado": "1",
-    "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "fechaCargado": null,
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }
   , 
   {
 
     "idDocumento": 11,
-    "nombreDocumento": "Bono de prenda",
+    "nombreDocumento": "Documentos requeridos (certificados) para aplicar a líneas especiales (si aplica)",
     "estadoCargado": "1",
     "fechaCargado": "05/12/2022",
-    "vigencia" : "no mayor a 90 dias"
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
+  }
+  , 
+  {
+
+    "idDocumento": 12,
+    "nombreDocumento": "Anexos de la línea debidamente firmados y en poder del Banco.",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
+  }
+  , 
+  {
+
+    "idDocumento": 13,
+    "nombreDocumento": "Autorización de las facultades del Representante Legal (si aplica).",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
+  }
+  , 
+  {
+
+    "idDocumento": 14,
+    "nombreDocumento": "Documento de Novación (si aplica)",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
+  }
+  , 
+  {
+
+    "idDocumento": 15,
+    "nombreDocumento": "DCC_FOR_058 Visto por monto (Red y Pyme)",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
+  }
+  , 
+  {
+
+    "idDocumento": 16,
+    "nombreDocumento": "Solicitud crédito agropecuario línea de agrocesantías (persona natural o persona jurídica).",
+    "estadoCargado": "1",
+    "fechaCargado": "05/12/2022",
+    "vigencia" : "no mayor a 90 dias",
+    "activoCatalogo": true
   }
 ]
